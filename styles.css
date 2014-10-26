@@ -5,19 +5,16 @@ body {
 }
 
 h1 {
-	font-family: 'Courier New', sans;
 	font-size: 60;
 	text-align: center;
 }
 
 h2 {
-	font-family: 'Courier New', sans;
 	font-size: 40;
 	text-align: center;
 }
 
 p {
-	font-family: 'Courier New', sans;
 	font-size: 20px;
 	text-align: center;
 }
