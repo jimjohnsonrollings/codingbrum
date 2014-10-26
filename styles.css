@@ -1,5 +1,20 @@
 body {
-    background: #0FF;
+    background: #FFFF00;
     color: #000;
     font-family: 'Courier New', sans;
+}
+
+h1 {
+	font-size: 60;
+	text-align: center;
+}
+
+h2 {
+	font-size: 40;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	text-align: center;
 }
